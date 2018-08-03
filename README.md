@@ -1,3 +1,3 @@
 Quick and fun project.
 
-(img/clock-example.PNG)
+![clock](img/clock-example.PNG)
